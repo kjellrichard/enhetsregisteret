@@ -1,0 +1,29 @@
+# Source files (we only want the compiled files)
+src/
+
+# Test files
+tests/
+coverage/
+
+# Configuration files
+.eslintrc.json
+.prettierrc
+vitest.config.ts
+tsconfig.json
+
+# Git files
+.git/
+.gitignore
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env* 
