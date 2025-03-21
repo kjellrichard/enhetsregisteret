@@ -30,12 +30,12 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/yourusername/enhetsregisteret.git"
+        "url": "git+https://github.com/kjellrichard/enhetsregisteret.git"
     },
     "bugs": {
-        "url": "https://github.com/yourusername/enhetsregisteret/issues"
+        "url": "https://github.com/kjellrichard/enhetsregisteret/issues"
     },
-    "homepage": "https://github.com/yourusername/enhetsregisteret#readme",
+    "homepage": "https://github.com/kjellrichard/enhetsregisteret#readme",
     "devDependencies": {
         "@types/node": "^20.11.24",
         "@typescript-eslint/eslint-plugin": "^7.1.0",
